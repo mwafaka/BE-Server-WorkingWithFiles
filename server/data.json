@@ -1,0 +1,16 @@
+[
+  {
+    "id": "uYQAFVnjvJL-CE6wIi4XT",
+    "firstName": "joe",
+    "lastName": "Doe",
+    "favoriteLanguage": "JavaScript",
+    "isStudent": true
+  },
+  {
+    "id": "o34Zrju_8FNYZIw29pAwK",
+    "firstName": "Viktoria",
+    "lastName": "Doe",
+    "favoriteLanguage": "Python",
+    "isStudent": true
+  }
+]
